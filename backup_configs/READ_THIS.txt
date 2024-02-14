@@ -1,4 +1,4 @@
 ** IMPORTANT **
 All the files outside of the folders that are listed inside: ~/backup_configs/~
-Are the main configs that I used for everyday for my personal use while the others are for just fun and ricing shit!
+Are the main configs that I used everyday for my personal use while the others are for just fun and ricing shit!
 ** END **
